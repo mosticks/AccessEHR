@@ -1,4 +1,4 @@
 AccessEHR
 =========
 
-Modified version of OpenEHR
+Modified version of personal health record
